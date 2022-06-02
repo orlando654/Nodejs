@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio-bases",
+  "version": "1.0.0",
+  "description": "ejemplo de prueba",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3":"node app --base=3"
+  },
+  "author": "Oliver Do Santos Pereira Fiorilo",
+  "license": "ISC"
+}
